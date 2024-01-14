@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\CodeWars\Mumbling\Mumbling\bin\Debug\net7.0\Mumbling.exe
+D:\Visual Studio Projects\CodeWars\Mumbling\Mumbling\bin\Debug\net7.0\Mumbling.deps.json
+D:\Visual Studio Projects\CodeWars\Mumbling\Mumbling\bin\Debug\net7.0\Mumbling.runtimeconfig.json
+D:\Visual Studio Projects\CodeWars\Mumbling\Mumbling\bin\Debug\net7.0\Mumbling.dll
+D:\Visual Studio Projects\CodeWars\Mumbling\Mumbling\bin\Debug\net7.0\Mumbling.pdb
+D:\Visual Studio Projects\CodeWars\Mumbling\Mumbling\obj\Debug\net7.0\Mumbling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\CodeWars\Mumbling\Mumbling\obj\Debug\net7.0\Mumbling.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CodeWars\Mumbling\Mumbling\obj\Debug\net7.0\Mumbling.AssemblyInfo.cs
+D:\Visual Studio Projects\CodeWars\Mumbling\Mumbling\obj\Debug\net7.0\Mumbling.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CodeWars\Mumbling\Mumbling\obj\Debug\net7.0\Mumbling.dll
+D:\Visual Studio Projects\CodeWars\Mumbling\Mumbling\obj\Debug\net7.0\refint\Mumbling.dll
+D:\Visual Studio Projects\CodeWars\Mumbling\Mumbling\obj\Debug\net7.0\Mumbling.pdb
+D:\Visual Studio Projects\CodeWars\Mumbling\Mumbling\obj\Debug\net7.0\Mumbling.genruntimeconfig.cache
+D:\Visual Studio Projects\CodeWars\Mumbling\Mumbling\obj\Debug\net7.0\ref\Mumbling.dll
